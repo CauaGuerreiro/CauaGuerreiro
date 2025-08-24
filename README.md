@@ -121,6 +121,14 @@ Me chamo Cauã Caldeira Guerreiro, tenho 21 anos e sou natural do Rio de Janeiro
 />
 <img 
     align="left"
+    alt="git" 
+    title="git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left"
     alt="github" 
     title="github"
     width="30px" 
